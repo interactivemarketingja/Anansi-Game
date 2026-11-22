@@ -1,0 +1,8 @@
+{
+  "name": "Anansi: Tales of the Golden Calabash",
+  "description": "A lush 2D Jamaican folklore action-platformer starring Bredda Anansi spinning golden silk, swinging through Blue Mountain canopies, and outwitting woodland rivals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
